@@ -23,6 +23,8 @@ Skills:
 Proficient in Unity and C#
 Professional 2D and 2.5D game asset creator using illustrator.
 learning lua and Löve2D framework.
+cs50 student🎲.
+
 
 
 This is my upcoming project a 2D RPG game named "The Dreamland of PizzaGirl"
