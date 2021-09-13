@@ -17,9 +17,14 @@ i'm also working on my own personal project that is a game named Pico - Ball.
 i have developed other games and XR apps📹 in the past is well.
 
 Skills:
+
 Proficient in Unity and C#
 Professional 2D and 2.5D game asset creator using illustrator.
 learning lua and Löve2D framework.
+
+
+This is my upcoming project a 2D RPG game named "The Dreamland of PizzaGirl"
+![FinalPizzaPoster](https://user-images.githubusercontent.com/51854903/133062730-4db62829-91ad-4bb3-a5a3-d4491bcb1583.png)
 
 I'm looking to collaborate on an open source 2D game again using Unity as a developing environment.
 <!--
