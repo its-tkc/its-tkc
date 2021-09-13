@@ -8,13 +8,15 @@ so i started learning Unity Engine.
 i'm making games for one and a half year and enjoying my work.
 
 Projects:
-i'm currently working for Kresko Labs which is a Singapore based startup
+
+i'm currently working for Kresko Labs which is a Singapore based startup,
 my role is to develop apps of both game and non-game types.
 my current project that i'm handling is Kids Colouring App already published
 on play store.
 
-i'm also working on my own personal project that is a game named Pico - Ball.
+i'm also working on my own personal project that is a game named Pico - The Ball.
 i have developed other games and XR apps📹 in the past is well.
+i'm also a member of Google Developers Group new delhi.
 
 Skills:
 
