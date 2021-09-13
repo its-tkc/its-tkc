@@ -7,7 +7,7 @@ i love video games🎮 alot from the very beginning of my childhood
 so i started learning Unity Engine.
 i'm making games for one and a half year and enjoying my work.
 
-![1631527879398](https://user-images.githubusercontent.com/51854903/133066217-431a5591-d577-455b-b8f3-08ae00d7b3c3.jpg)
+
 
 
 Projects:
