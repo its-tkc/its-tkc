@@ -1,0 +1,1 @@
+print("Zelda is love.")
