@@ -17,7 +17,7 @@ my role is to develop apps of both game and non-game types.
 my current project that i'm handling is Kids Colouring App already published
 on play store.
 
-I'm also working on my own personal project that is a game named Pico - The Ball.
+I'm also working on my own personal project that's a game named Pico - The Ball.
 I have developed other games and XR apps📹 in the past is well.
 I'm also a member of Google Developers Group new delhi.
 
