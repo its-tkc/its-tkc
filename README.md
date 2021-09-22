@@ -1,4 +1,4 @@
-Namaste 🙏🙏🙏🏻
+Namaste 🙏🏻🙏🏻
 
 About me:
 
