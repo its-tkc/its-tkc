@@ -1,4 +1,6 @@
 Namaste 🙏🏻
+![](https://komarev.com/ghpvc/?username=its-tkc)
+
 
 
 About me:
