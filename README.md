@@ -1,6 +1,6 @@
-Namaste 🙏🏻
 ![](https://komarev.com/ghpvc/?username=its-tkc)
 
+Namaste 🙏🏻
 
 
 About me:
