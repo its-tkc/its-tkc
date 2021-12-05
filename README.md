@@ -15,7 +15,7 @@ I'm making games for one and a half year and enjoying my work.
 
 Projects:
 
-I'm currently working for Kresko Labs which is a Singapore based startup,
+I'm currently working for Kresko Labs.
 my role is to develop apps of both game and non-game types.
 my current project that i'm handling is Kids Colouring App already published
 on play store.
