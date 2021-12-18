@@ -29,7 +29,7 @@ Skills:
 Proficient in Unity and C#
 Professional 2D and 2.5D game assets creator using illustrator.
 learning lua and Löve2D framework.
-learning .NET 5 and Azure Development.
+learning .NET Core and Azure.
 cs50 student🎲.
 
 
