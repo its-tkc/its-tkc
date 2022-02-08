@@ -19,7 +19,9 @@ I'm currently working for Kresko Labs.
 my role is to develop apps of both game and non-game types.
 my current project that i'm handling is Kids Colouring App already published
 on play store.
+
 Here is the list of my projects:
+
 Kids Coloring App
 https://play.google.com/store/apps/details?id=com.learn.kidscoloring
 
