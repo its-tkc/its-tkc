@@ -28,6 +28,9 @@ https://play.google.com/store/apps/details?id=com.learn.kidscoloring
 ML Doctor
 https://github.com/its-tkc/MLDoctor
 
+Megnaton Wings
+https://github.com/its-tkc/MegnatonWings
+
 I'm also working on my personal projects and have many game prototypes.
 I have developed other games and XR apps📹 in the past as well.
 I'm also a member of Google Developers Group New Delhi.
