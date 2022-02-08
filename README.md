@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=its-tkc)
 
-Namaste 🙏🏻🙏🏻
+Hello Gamers and Game Studios.
 
 
 About me:
 
-I'm Tushar a mechanical⚙️ engineering final year student.
+I'm Tushar a mechanical⚙️ engineering student.
 I love video games🎮 alot from the very beginning of my childhood
 so i started learning Unity Engine.
 I'm making games for one and a half year and enjoying my work.
