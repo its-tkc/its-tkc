@@ -20,7 +20,10 @@ my role is to develop apps of both game and non-game types.
 my current project that i'm handling is Kids Colouring App already published
 on play store.
 
-I'm also worki on my personal projects and have many game prototypes.
+ML Doctor
+https://github.com/its-tkc/MLDoctor
+
+I'm also working on my personal projects and have many game prototypes.
 I have developed other games and XR apps📹 in the past as well.
 I'm also a member of Google Developers Group New Delhi.
 
