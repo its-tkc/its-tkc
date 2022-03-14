@@ -43,7 +43,8 @@ cs50 student🎲.
 
 
 
-This is my upcoming project a 2D RPG game named "The Dreamland of PizzaGirl"
+This is my concept project a 2D RPG game named "The Dreamland of PizzaGirl"
+poster designed by me.
 ![FinalPizzaPoster](https://user-images.githubusercontent.com/51854903/133062730-4db62829-91ad-4bb3-a5a3-d4491bcb1583.png)
 
 I'm looking to collaborate on open source games as well.
