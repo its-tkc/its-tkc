@@ -6,9 +6,8 @@ Hello Gamers and Game Studios.
 About me:
 
 I'm Tushar a mechanical⚙️ engineering student.
-I love video games🎮 alot from the very beginning of my childhood
-so i started learning Unity Engine.
-I'm making games for one and a half year and enjoying my work.
+I love video games so i started developing my own games using Unity Engine.
+I'm making games for 2 years and enjoying my work.
 
 
 
