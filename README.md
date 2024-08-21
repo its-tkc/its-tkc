@@ -5,9 +5,9 @@ Hello Gamers and Game Studios.
 
 About me:
 
-I'm Tushar a mechanical⚙️ engineering student.
+I'm Tushar Chand a Unity Game Developer.
 I love video games so i started developing my own games using Unity Engine.
-I'm making games for 2 years and enjoying my work.
+I'm making games for 3 years and enjoying my work.
 
 
 
