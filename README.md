@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=its-tkc)
 
-Hello Gamers and Game Studios.
+Hello Game Lovers!
 
 
 About me:
 
 I'm Tushar Chand a Unity Game Developer.
 I love video games so i started developing my own games using Unity Engine.
-I'm making games for 3 years and enjoying my work.
+I'm making games for last few years and enjoying my work.
 
 
 
