@@ -14,8 +14,9 @@ I'm making games for last few years and enjoying my work.
 
 Projects:
 
-my current project that i'm handling is Kids Colouring App already published
-on play store.
+Gallery Shooter VR (Jio Dive):
+
+[![Game Prototype](https://img.youtube.com/vi/Rw0tSqiJovI/0.jpg)](https://www.youtube.com/watch?v=Rw0tSqiJovI)
 
 Here is the list of my projects:
 
