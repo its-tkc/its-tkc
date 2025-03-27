@@ -1,24 +1,24 @@
 ![](https://komarev.com/ghpvc/?username=its-tkc)
 
-Hello Game Lovers!
+Hello Game 🎮 Lovers!
 
+About Me 👋
+I am a passionate Unity Game Developer with 3 years of professional experience in the industry. I have strong programming skills and expertise in developing immersive experiences using AR, VR, and MR technologies.
 
-About me:
+🛠️ Skills & Expertise:
+Game Development: Unity, C#, Game Design
 
-I'm Tushar Chand a Unity Game Developer.
-I love video games so i started developing my own games using Unity Engine.
-I'm making games for last few years and enjoying my work.
+XR Development: AR Foundation, Vuforia, XR Interaction Toolkit, JMRSdk
 
+Software Development: Agile & Scrum Management
 
-
+I am always eager to learn new technologies and build engaging, interactive experiences. Feel free to check out my projects and connect with me! 🚀
 
 Projects:
 
 Gallery Shooter VR (Jio Dive):
 
 [![Game Prototype](https://img.youtube.com/vi/Rw0tSqiJovI/0.jpg)](https://www.youtube.com/watch?v=Rw0tSqiJovI)
-
-Here is the list of my projects:
 
 Kids Coloring App
 https://play.google.com/store/apps/details?id=com.learn.kidscoloring
