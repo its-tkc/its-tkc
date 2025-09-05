@@ -1,67 +1,67 @@
 ![](https://komarev.com/ghpvc/?username=its-tkc)
 
-Hello Game 🎮 Lovers!
+# ⚡ No dungeon is dark enough to hide courage. 🏰🔥
 
-About Me 👋
-I am a passionate Unity Game Developer with 3 years of professional experience in the industry. I have strong programming skills and expertise in developing immersive experiences using AR, VR, and MR technologies.
+---
 
-🛠️ Skills & Expertise:
-Game Development: Unity, C#, Game Design
+## 🎮 Introduction
+Hello Game Lovers! 👋  
+I am a passionate **Unity Game Developer** with 3+ years of professional experience.  
+I specialize in creating **immersive gameplay experiences** using Unity, C#, and XR technologies.  
+Always eager to learn, build, and collaborate on exciting game projects. 🚀  
 
-XR Development: AR Foundation, Vuforia, XR Interaction Toolkit, JMRSdk
+---
 
-Software Development: Agile & Scrum Management
+## 🛠️ Skills
+- **Game Development:** Unity, C#, Game Design  
+- **XR Development:** AR Foundation, Vuforia, XR Interaction Toolkit, JMRSdk  
+- **Creative Tools:** Illustrator (2D & 2.5D assets)  
+- **Currently Exploring:** Lua (Löve2D), .NET Core, Azure  
 
-I am always eager to learn new technologies and build engaging, interactive experiences. Feel free to check out my projects and connect with me! 🚀
+🎖️ [Unity Junior Programmer Certification](https://www.credly.com/badges/59402c57-fcb8-416d-8f10-460b826142ec/public_url)
 
-Projects:
+---
 
-Gallery Shooter VR (Jio Dive):
+## 📂 Projects
+- **Kids Coloring App** – Fun coloring app for kids  
+  [Google Play](https://play.google.com/store/apps/details?id=com.learn.kidscoloring)  
 
-[![Game Prototype](https://img.youtube.com/vi/Rw0tSqiJovI/0.jpg)](https://www.youtube.com/watch?v=Rw0tSqiJovI)
+- **ML Doctor** – Medical learning & diagnostics prototype  
+  [GitHub Repo](https://github.com/its-tkc/MLDoctor)  
 
-Kids Coloring App
-https://play.google.com/store/apps/details?id=com.learn.kidscoloring
+- **Megnaton Wings** – Arcade shooter prototype  
+  [GitHub Repo](https://github.com/its-tkc/MegnatonWings)  
 
-ML Doctor
-https://github.com/its-tkc/MLDoctor
+- **The Dreamland of PizzaGirl** – 2D RPG concept project  
+  Poster (designed by me):  
+  ![FinalPizzaPoster](https://user-images.githubusercontent.com/51854903/133062730-4db62829-91ad-4bb3-a5a3-d4491bcb1583.png)
 
-Megnaton Wings
-https://github.com/its-tkc/MegnatonWings
+---
 
-I'm also working on my personal projects and have many game prototypes.
-I have developed other games and XR apps📹 in the past as well.
-I'm also a member of Google Developers Group New Delhi.
+## 🌟 Featured Games
+Here are some of my **playable WebGL builds** hosted on GitHub Pages.  
+Click the button below each game to try them out instantly!  
 
-Skills:
+---
 
-Proficient in Unity and C#
-Unity Junior Programmer https://www.credly.com/badges/59402c57-fcb8-416d-8f10-460b826142ec/public_url
-Professional 2D and 2.5D game assets creator using illustrator.
-learning lua and Löve2D framework.
-learning .NET Core and Azure🎲.
-
-
-
-This is my concept project a 2D RPG game named "The Dreamland of PizzaGirl"
-poster designed by me.
-![FinalPizzaPoster](https://user-images.githubusercontent.com/51854903/133062730-4db62829-91ad-4bb3-a5a3-d4491bcb1583.png)
-
-I'm looking to collaborate on open source games as well.
-
+### 🚀 Megnaton Wings  
+A fast-paced arcade shooter with simple but addictive gameplay.  
+![Thumbnail](https://user-images.githubusercontent.com/51854903/placeholder.png)  
 [![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-green?style=for-the-badge)](https://its-tkc.github.io/Megnaton-Wings/)
 
-<!--
-**its-tkc/its-tkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏝️ (Upcoming Game Title)  
+*Description of the game goes here (few lines).*  
+![Thumbnail](https://user-images.githubusercontent.com/51854903/placeholder.png)  
+[![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-blue?style=for-the-badge)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚔️ (Upcoming Game Title)  
+*Description of the game goes here (few lines).*  
+![Thumbnail](https://user-images.githubusercontent.com/51854903/placeholder.png)  
+[![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-purple?style=for-the-badge)](#)
+
+---
+
