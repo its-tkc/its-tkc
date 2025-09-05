@@ -46,7 +46,7 @@ Click the button below each game to try them out instantly!
 
 ### 🚀 Megnaton Wings  
 A fast-paced arcade shooter with simple but addictive gameplay.  
-![Thumbnail](https://user-images.githubusercontent.com/51854903/placeholder.png)  
+![Megnaton Wings Thumbnail](https://raw.githubusercontent.com/its-tkc/its-tkc/main/Megnaton-thumbnail.png) 
 [![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-green?style=for-the-badge)](https://its-tkc.github.io/Megnaton-Wings/)
 
 ---
