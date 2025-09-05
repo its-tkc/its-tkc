@@ -63,7 +63,7 @@ A fast-paced arcade shooter with simple but addictive gameplay.
 Remember Angry birds?  Won't let you forget balls.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/its-tkc/its-tkc/main/pico-thumbnail.jpg" width="550" alt="Island Adventure Thumbnail" />
+  <img src="https://raw.githubusercontent.com/its-tkc/its-tkc/main/pico-thumbnail.jpg" width="550" alt="Island Adventure Thumbnail" />
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ Remember Angry birds?  Won't let you forget balls.
 a land full of pizzas, chocolates and dreams.  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/its-tkc/its-tkc/main/pizzagirl-thumbnail.jpg" width="550" alt="Dungeon Escape Thumbnail" />
+  <img src="https://raw.githubusercontent.com/its-tkc/its-tkc/main/pizzagirl-thumbnail.jpg" width="550" alt="Dungeon Escape Thumbnail" />
 </p>
 
 <p align="center">
