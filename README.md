@@ -49,7 +49,7 @@ poster designed by me.
 
 I'm looking to collaborate on open source games as well.
 
-[![Play Now](https://img.shields.io/badge/Play%20Now-Click%20Here-blue?style=for-the-badge)](https://its-tkc.github.io/Megnaton-Wings/)
+[![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-blue?style=for-the-badge)](https://its-tkc.github.io/Megnaton-Wings/)
 
 <!--
 **its-tkc/its-tkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
