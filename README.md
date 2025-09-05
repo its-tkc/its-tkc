@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=its-tkc)
 
-# ⚡ No dungeon is dark enough to hide courage. 🏰🔥
+# The Final Boss is never out there — it’s always within. 👑⚡
 
 ---
 
