@@ -48,7 +48,7 @@ Click the button below each game to try them out instantly!
 A fast-paced arcade shooter with simple but addictive gameplay.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/its-tkc/its-tkc/main/Megnaton-thumbnail.png" width="400" alt="Megnaton Wings Thumbnail" />
+  <img src="https://raw.githubusercontent.com/its-tkc/its-tkc/main/Megnaton-thumbnail.png" width="550" alt="Megnaton Wings Thumbnail" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ A fast-paced arcade shooter with simple but addictive gameplay.
 Explore a mysterious island full of secrets and treasures.  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="400" alt="Island Adventure Thumbnail" />
+  <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="550" alt="Island Adventure Thumbnail" />
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ Explore a mysterious island full of secrets and treasures.
 A roguelike dungeon crawler packed with traps and bosses.  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="400" alt="Dungeon Escape Thumbnail" />
+  <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="550" alt="Dungeon Escape Thumbnail" />
 </p>
 
 <p align="center">
@@ -88,3 +88,4 @@ A roguelike dungeon crawler packed with traps and bosses.
 </p>
 
 ---
+
