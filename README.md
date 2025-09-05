@@ -83,7 +83,7 @@ a land full of pizzas, chocolates and dreams.
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Play%20Now%20🎮-purple?style=for-the-badge" alt="Play Now" />
+    <img src="https://img.shields.io/badge/Play%20Now%20🎮-orange?style=for-the-badge" alt="Play Now" />
   </a>
 </p>
 
