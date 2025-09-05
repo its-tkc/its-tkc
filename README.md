@@ -59,11 +59,11 @@ A fast-paced arcade shooter with simple but addictive gameplay.
 
 ---
 
-### 🏝️ Island Adventure *(Upcoming)*  
-Explore a mysterious island full of secrets and treasures.  
+### 🏝️ Pico - the ball *(Upcoming)*  
+Remember Angry birds?  Won't let you forget balls.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="550" alt="Island Adventure Thumbnail" />
+  <img src="https://user-images.githubusercontent.com/its-tkc/its-tkc/main/pico-thumbnail.jpg" width="550" alt="Island Adventure Thumbnail" />
 </p>
 
 <p align="center">
@@ -74,11 +74,11 @@ Explore a mysterious island full of secrets and treasures.
 
 ---
 
-### ⚔️ Dungeon Escape *(Upcoming)*  
-A roguelike dungeon crawler packed with traps and bosses.  
+### ⚔️ Dreamland of PizzaGirl *(Upcoming)*  
+a land full of pizzas, chocolates and dreams.  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="550" alt="Dungeon Escape Thumbnail" />
+  <img src="https://user-images.githubusercontent.com/its-tkc/its-tkc/main/pizzagirl-thumbnail.jpg" width="550" alt="Dungeon Escape Thumbnail" />
 </p>
 
 <p align="center">
