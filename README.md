@@ -32,10 +32,6 @@ Always eager to learn, build, and collaborate on exciting game projects. 🚀
 - **Megnaton Wings** – Arcade shooter prototype  
   [GitHub Repo](https://github.com/its-tkc/MegnatonWings)  
 
-- **The Dreamland of PizzaGirl** – 2D RPG concept project  
-  Poster (designed by me):  
-  ![FinalPizzaPoster](https://user-images.githubusercontent.com/51854903/133062730-4db62829-91ad-4bb3-a5a3-d4491bcb1583.png)
-
 ---
 
 ## 🌟 Featured Games
@@ -47,11 +43,11 @@ Click the button below each game to try them out instantly!
 ### 🚀 Megnaton Wings  
 A fast-paced arcade shooter with simple but addictive gameplay.  
 ![Megnaton Wings Thumbnail](https://raw.githubusercontent.com/its-tkc/its-tkc/main/Megnaton-thumbnail.png) 
-[![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-green?style=for-the-badge)](https://its-tkc.github.io/Megnaton-Wings/)
+[![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-blue?style=for-the-badge)](https://its-tkc.github.io/Megnaton-Wings/)
 
 ---
 
-### 🏝️ (Upcoming Game Title)  
+<!--- ### 🏝️ (Upcoming Game Title)  
 *Description of the game goes here (few lines).*  
 ![Thumbnail](https://user-images.githubusercontent.com/51854903/placeholder.png)  
 [![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-blue?style=for-the-badge)](#)
@@ -63,5 +59,5 @@ A fast-paced arcade shooter with simple but addictive gameplay.
 ![Thumbnail](https://user-images.githubusercontent.com/51854903/placeholder.png)  
 [![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-purple?style=for-the-badge)](#)
 
----
+--->
 
