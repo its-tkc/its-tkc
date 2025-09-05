@@ -44,35 +44,47 @@ Click the button below each game to try them out instantly!
 
 ---
 
-<div align="center">
-
 ### 🚀 Megnaton Wings  
 A fast-paced arcade shooter with simple but addictive gameplay.  
 
-<img src="https://raw.githubusercontent.com/its-tkc/its-tkc/main/Megnaton-thumbnail.png" width="400" alt="Megnaton Wings Thumbnail" />  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/its-tkc/its-tkc/main/Megnaton-thumbnail.png" width="400" alt="Megnaton Wings Thumbnail" />
+</p>
 
-[![Play Now 🎮](https://img.shields.io/badge/Play%20Now%20🎮-blue?style=for-the-badge)](https://its-tkc.github.io/Megnaton-Wings/)
+<p align="center">
+  <a href="https://its-tkc.github.io/Megnaton-Wings/">
+    <img src="https://img.shields.io/badge/Play%20Now%20🎮-blue?style=for-the-badge" alt="Play Now" />
+  </a>
+</p>
 
 ---
 
-<!-- Example template for upcoming games -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏝️ Island Adventure</h3>
-      <p>Explore a mysterious island full of secrets and treasures.</p>
-      <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="250" alt="Island Adventure Thumbnail" /><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Play%20Now%20🎮-green?style=for-the-badge" alt="Play Now" /></a>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚔️ Dungeon Escape</h3>
-      <p>A roguelike dungeon crawler packed with traps and bosses.</p>
-      <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="250" alt="Dungeon Escape Thumbnail" /><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Play%20Now%20🎮-purple?style=for-the-badge" alt="Play Now" /></a>
-    </td>
-  </tr>
-</table>
+### 🏝️ Island Adventure *(Upcoming)*  
+Explore a mysterious island full of secrets and treasures.  
 
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="400" alt="Island Adventure Thumbnail" />
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Play%20Now%20🎮-green?style=for-the-badge" alt="Play Now" />
+  </a>
+</p>
+
+---
+
+### ⚔️ Dungeon Escape *(Upcoming)*  
+A roguelike dungeon crawler packed with traps and bosses.  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51854903/placeholder.png" width="400" alt="Dungeon Escape Thumbnail" />
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Play%20Now%20🎮-purple?style=for-the-badge" alt="Play Now" />
+  </a>
+</p>
 
 ---
