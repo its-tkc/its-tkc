@@ -20,6 +20,14 @@ Always eager to learn, build, and collaborate on exciting game projects. 🚀
 
 🎖️ [Unity Junior Programmer Certification](https://www.credly.com/badges/59402c57-fcb8-416d-8f10-460b826142ec/public_url)
 
+🎖️ [Unity VR Development Certification](https://www.credly.com/badges/eb46d143-013e-43fa-9000-6484155d2f84/public_url)
+
+🎖️ [Unity Mobile AR Development Certification](https://www.credly.com/badges/785fbc82-59c3-4e62-9315-d42aab296612/public_url)
+
+🎖️ [CS50x's Introduction to Computer Science](https://courses.edx.org/certificates/6d224233e66d421487dd7ee033f252eb)
+
+🎖️ [Google Project Management Professional Certification](https://www.credly.com/badges/def420bd-c54d-44f0-a4de-8b145e1cc535?source=linked_in_profile)
+
 ---
 
 ## 📂 Projects
