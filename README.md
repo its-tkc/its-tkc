@@ -257,7 +257,7 @@ behind the tools I use.
 A completed Unity game project.
 
 <p align="center">
-  <img src="CAT-DEFENDERS-THUMBNAIL" width="650" alt="Cat Defenders">
+  <img src="https://raw.githubusercontent.com/its-tkc/its-tkc/main/catdefenders-thumbnail.png" width="650" alt="Cat Defenders">
 </p>
 
 <p align="center">
@@ -268,7 +268,7 @@ A completed Unity game project.
 
 &nbsp;
 
-<a href="CAT-DEFENDERS-GITHUB-LINK">
+<a href="https://its-tkc.github.io/CatDefenders/">
 <img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github" alt="Cat Defenders Source Code">
 </a>
 
