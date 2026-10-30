@@ -286,13 +286,13 @@ A simple 2D tank game project.
 
 <p align="center">
 
-<a href="https://its-tkc.github.io/CatDefenders/">
+<a href="https://its-tkc.github.io/Tank50/">
 <img src="https://img.shields.io/badge/▶%20PLAY%20NOW-2ea44f?style=for-the-badge" alt="Play Tank50">
 </a>
 
 &nbsp;
 
-<a href="https://its-tkc.github.io/CatDefenders/">
+<a href="https://its-tkc.github.io/Tank50/">
 <img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github" alt="Tank50 Source Code">
 </a>
 
