@@ -276,6 +276,30 @@ A completed Unity game project.
 
 ---
 
+## 🐱 Tank 50
+
+A simple 2D tank game project.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/its-tkc/its-tkc/main/tank50-thumbnail.png" width="650" alt="Tank 50">
+</p>
+
+<p align="center">
+
+<a href="https://its-tkc.github.io/CatDefenders/">
+<img src="https://img.shields.io/badge/▶%20PLAY%20NOW-2ea44f?style=for-the-badge" alt="Play Tank50">
+</a>
+
+&nbsp;
+
+<a href="https://its-tkc.github.io/CatDefenders/">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github" alt="Tank50 Source Code">
+</a>
+
+</p>
+
+---
+
 ## 🚀 Megnaton Wings
 
 A fast-paced arcade shooter developed during my early Unity
